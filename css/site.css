@@ -5,6 +5,8 @@ html {
 body {
   background: #FFFEFA;
   margin-bottom: 15px; }
+  body .wrapper .header {
+    margin-bottom: 56px; }
   body .footer {
     position: absolute;
     bottom: 0;
