@@ -1,0 +1,60 @@
+@import
+"_fonts",
+"_type-sizes";
+
+
+// Heading XL, H1
+@mixin heading-xl {
+  @include size--base-6;
+  @include font--primary-light;
+  line-height: 1.2;
+}
+
+// Heading LG, H2
+@mixin heading-lg {
+  @include size--base-5;
+  @include font--primary-light;
+  line-height: 1.2;
+}
+
+// Heading MD, H3
+@mixin heading-md {
+  @include size--base-4;
+  @include font--primary-md;
+  line-height: 1.3;
+}
+
+// Heading SM, H4
+@mixin heading-sm {
+  @include size--base-3;
+  @include font--primary-md;
+  line-height: 1.3;
+}
+
+// Heading, H5
+@mixin heading {
+  @include size--base-2;
+  @include font--primary-md;
+  line-height: 1.3;
+}
+
+// Heading XS, H6
+@mixin heading-xs {
+  @include size--base-0;
+  @include font--primary-md;
+  line-height: 1.3;
+}
+
+// Body, P
+@mixin body {
+  @include size--base-1;
+  @include font--primary-regular;
+  line-height: 1.5;
+}
+
+// Fine Print
+@mixin fine-print {
+  @include size--base-0;
+  @include font--primary-regular;
+  line-height: 1.5;
+}

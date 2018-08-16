@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAA,IAAI;EACF,UAAU,ECQL,OAAO;EDJV,mBAAK;IACH,MAAM,EAAE,KAAK",
-"sources": ["../scss/layout/_layout.scss","../scss/color/_colors.scss"],
+"mappings": "AAAA,IAAI;EACF,UAAU,ECQL,OAAO;EDJV,mBAAK;IACH,MAAM,EAAE,KAAK;;AENnB,IAAK;EACH,SAAS,EAAE,IAAI",
+"sources": ["../scss/layout/_layout.scss","../scss/color/_colors.scss","../scss/typography/_type-sizes.scss"],
 "names": [],
 "file": "site.css"
 }
