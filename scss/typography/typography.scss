@@ -1,0 +1,19 @@
+.heading-lg{
+  @include heading-lg;
+  color: $base-color;
+}
+
+.body{
+  @include body;
+  color: $black;
+}
+
+.link{
+  @include link;
+
+  &:hover, &:focus{
+    color: $base-color;
+    outline: none;
+    text-decoration: none;
+  }
+}
