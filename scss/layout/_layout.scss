@@ -11,6 +11,21 @@ body{
 
     .header{
       margin-bottom: 56px;
+
+      .navbar{
+        padding: 16px;
+
+        .navbar-nav{
+
+          .nav-item{
+
+            .nav-link{
+              padding: 8px;
+              text-transform: uppercase;
+            }
+          }
+        }
+      }
     }
 
     .main{
