@@ -4,6 +4,7 @@ html{
 }
 
 body{
+  @include font--primary-regular;
   background: $lite;
   margin-bottom: 31px;
 
@@ -30,7 +31,32 @@ body{
     }
 
     .main{
+      margin-bottom: 56px;
 
+      .projects{
+
+        .project{
+
+          .project-media{
+            background: #ededec;
+          }
+
+          .project-header{
+
+            .project-title{
+
+            }
+
+            .project-role{
+
+            }
+
+            .project-date{
+
+            }
+          }
+        }
+      }
     }
   }
 
