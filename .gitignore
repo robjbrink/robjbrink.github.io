@@ -2,3 +2,5 @@
 scss/.sass-cache
 
 .DS_Store
+images/.DS_Store
+images/project/.DS_Store
