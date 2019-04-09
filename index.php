@@ -67,7 +67,7 @@
                                     </div>
                                     <div class="project-header">
                                         <h2 class="project-client">Performance Culture</h2>
-                                        <span class="project-role">UI/UX Design</span>
+                                        <span class="project-role">UI/UX Design & Frontend Development</span>
                                         <span class="project-date">2017 - 2018</span>
                                     </div>
                                 </div>
