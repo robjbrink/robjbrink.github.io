@@ -60,7 +60,7 @@ body {
     margin-bottom: 56px; }
     body .wrapper .main .projects .project .project-media {
       background: #ededec;
-      margin-bottom: 56px; }
+      margin-bottom: 16px; }
   body .footer {
     padding: 8px 0;
     position: absolute;
@@ -76,9 +76,9 @@ body {
   margin-top: 24px; }
 
 .m-b--lg {
-  margin-bottom: 56px; }
+  margin-bottom: 32px; }
 
 .m-t--lg {
-  margin-top: 56px; }
+  margin-top: 32px; }
 
 /*# sourceMappingURL=site.css.map */
