@@ -1,2 +1,2 @@
 # robjbrink.github.io
-Rob Brink - Designer
+Rob Brink - Product Designer, Design Systems
